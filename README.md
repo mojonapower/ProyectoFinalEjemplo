@@ -1,4 +1,4 @@
-# WebApp boilerplate with React JS and Flask API
+# WebApp boilerplate with React JS and Flask API :D
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-flask-hello.git)
 
 <p align="center">
